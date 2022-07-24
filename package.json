@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SUMITBOPATE.github.io/amazon",
+  "homepage": "https://SUMITBOPATE.github.io/Amazon-clone",
   "git.enabled": true,
   "dependencies": {
     "@babel/core": "^7.18.5",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
