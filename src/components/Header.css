@@ -1,0 +1,74 @@
+.header{
+    height: 65px;
+    width: 100%;
+background-color: rgb(19,25,33);
+display: flex;
+position: sticky;
+top: 0;
+}
+.img-container{
+    /* background-color: blue; */
+   
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-container img{
+    height: 70%;
+    width: 79%;
+}
+.content-container{
+    /* background-color: red; */
+    height: 100%;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hello{
+    /* background-color: lightcoral; */
+    width: 160px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: small;
+    color: white;
+}
+.Address{
+    width: 160px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: flex-start;
+    font-weight:600;
+    color: white;
+}
+.search-parent{
+    /* background-color: lightblue; */
+    height: 100%;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.search-parent input{
+    height: 55%;
+    width: 70%;
+    border-radius: 8px;
+    border: none;
+}
+
+.return{
+
+   
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:600;
+    color: white;
+}
+.cart{
+    color: aliceblue;
+}

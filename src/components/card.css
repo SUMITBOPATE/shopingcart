@@ -1,0 +1,71 @@
+.parent{
+    /* background-color:lightblue; */
+    height: 100%;
+    width: 100%;
+    display: flex;
+    /* padding: 5px; */
+    flex-wrap: wrap;
+margin-left: 20px;
+margin-top: 15px;
+
+}
+.card-container{
+    /* background-color: red; */
+    margin-left: 20px;
+    height: 400px;
+    width: 250px;
+    margin: 10px;
+    background-color: rgb(250, 250, 250);
+    border: 1px  solid rgb(200, 200, 200);
+    border-radius: 4px;
+}
+.image-container{
+    width: 100%;
+    height: 60%;
+    /* background-color: blue; */
+
+}
+.image-container img{
+    height: 100%;
+    width: 100%;
+}
+.details{
+    /* background-color: aqua; */
+    height: 40%;
+    width: 100%;
+
+}.title{
+   color: rgb(79,113,133) ;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;  
+    height: 25px;
+    padding: 2px;
+    }
+    .rating{
+
+height: 27px;width: 32px;
+background-color: rgb(196,85,0);
+color: aliceblue;
+font-size: large;
+margin-top: -59px;
+
+    }
+    .price{
+font-size: larger;
+color: rgb(211,120,27);
+
+    }
+    .button {
+        transition-duration: 0.4s;
+        margin-top: 50px;
+        font-size: 20px;
+        border-radius: 12px;
+        padding: 8px 16px;
+      }
+      
+      .button:hover {
+        background-color: rgb(211,120,27); /* Green */
+        color:  rgb(17, 13, 9);
+      }
