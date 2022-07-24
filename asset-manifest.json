@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SUMITBOPATE/shopingcart.git/static/css/main.7d040559.css",
+    "main.js": "/SUMITBOPATE/shopingcart.git/static/js/main.86540386.js",
+    "index.html": "/SUMITBOPATE/shopingcart.git/index.html",
+    "main.7d040559.css.map": "/SUMITBOPATE/shopingcart.git/static/css/main.7d040559.css.map",
+    "main.86540386.js.map": "/SUMITBOPATE/shopingcart.git/static/js/main.86540386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d040559.css",
+    "static/js/main.86540386.js"
+  ]
+}
